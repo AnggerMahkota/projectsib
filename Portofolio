@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <title>Biodata Diri</title>
+    <body>
+        <h1>Angger Mahkota Aditiya</h1>
+        <img src="Angger1.jpeg" width="500px">
+        
+    <p><b>Tentang Saya</b></p>   
+    <p>Hai, Saya Angger Mahkota Aditiya biasa dipanggil Angger. Saya salah satu Mahasiswa di Politeknik Negri Banyuwangi, Hobi Saya adalah Bermain Game banyak sekali pengalaman dan pengahargaan yang saya dapat tetapi saya kurang puas dengan itu semua karena Cita-Cita saya menjadi Pemain Esport yang terkenal dan Jago.
+    </p>
+        <Ol> <b>Keahlian</b>
+        <li>Photshop</li>
+        <li>Desain UI/UX</li>
+        <li>Visual Studio Code</li>
+        </ol>
+        <ol>  <strong>Pendidikan</strong> 
+        <li>SDN 2 Genteng</li>
+        <li>SMPN 1 Genteng</li>
+        <li>SMAN 1 Genteng</li>
+        <Li>Politeknik Negri Banyuwangi</Li>
+        </ol>
+    </P>
+    <h2>Kontak Ku</h2>
+    <p>Facebook  =</a> <em>Angger Mahkota</em></p>
+    <p>Instagram  =</a> <em>Anggermahkota_</em></p>
+    <p>Whatsaap  =<em>087774469477</em></p>    
